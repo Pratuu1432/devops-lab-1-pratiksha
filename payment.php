@@ -94,6 +94,7 @@ if(!isset($_SESSION["user"]))
                         <h1 class="page-header">
                            Payment Details<small> </small>
                         </h1>
+                        <h2 class="text-uppercase text-green font-weight-bold font-style-underline">Edited by Pooja for DevOps Practical</h2>
                     </div>
                 </div> 
                  <!-- /. ROW  -->
